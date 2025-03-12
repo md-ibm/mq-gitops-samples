@@ -61,5 +61,5 @@ spec:
       queueManager:
         type: ephemeral
     name: QMDEMO
-  version: 9.3.1.0-r1
+  version: 9.4.2.0-r1
 
